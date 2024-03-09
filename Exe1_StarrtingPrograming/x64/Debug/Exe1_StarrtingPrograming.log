@@ -1,0 +1,10 @@
+﻿  Exe1_StarrtingPrograming.c
+C:\course c\C_Prorgrams\Exe1_StarrtingPrograming\Exe1_StarrtingPrograming.c(51,6): warning C4101: 'res': unreferenced local variable
+C:\course c\C_Prorgrams\Exe1_StarrtingPrograming\Exe1_StarrtingPrograming.c(104,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\course c\C_Prorgrams\Exe1_StarrtingPrograming\Exe1_StarrtingPrograming.c(104,11): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'char *'
+C:\course c\C_Prorgrams\Exe1_StarrtingPrograming\Exe1_StarrtingPrograming.c(104,37): warning C4474: 'printf' : too many arguments passed for format string
+  C:\course c\C_Prorgrams\Exe1_StarrtingPrograming\Exe1_StarrtingPrograming.c(104,37):
+  placeholders and their parameters expect 1 variadic arguments, but 3 were provided
+  
+C:\course c\C_Prorgrams\Exe1_StarrtingPrograming\Exe1_StarrtingPrograming.c(123,27): warning C4552: '*': result of expression not used
+  Exe1_StarrtingPrograming.vcxproj -> C:\course c\C_Prorgrams\x64\Debug\Exe1_Starrting.exe
